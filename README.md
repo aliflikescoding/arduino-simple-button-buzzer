@@ -6,6 +6,16 @@ This is a simple buzzer arduino button trigger, if you press the button the buzz
 
 👀 You can view the live preview via [this youtube video](https://youtu.be/-5EuVW0vIUA)
 
+## 🖥️ Technologies
+
+In this project we used technologies such as:
+
+- [Arduino uno R3](https://docs.arduino.cc/hardware/uno-rev3/) for the main controller
+- Seeveral [jumper wires](https://en.wikipedia.org/wiki/Jump_wire)
+- A [breadboard](https://en.wikipedia.org/wiki/Breadboard)
+- A buzzer
+- 2 Buttons
+
 ## 📋 Additional information
 
 ### 🖥️ Code Logic
